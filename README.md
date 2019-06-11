@@ -1,6 +1,6 @@
 # Skype
 Recipe for [Skype for Web](https://web.skype.com) integration with [Franz 5](http://meetfranz.com).
-Suppot notification with changed HTML/CSS schema at 2019-06.
+Suppot notification with multi-language HTML/CSS schema.
 
 ## To test this dev release
 
