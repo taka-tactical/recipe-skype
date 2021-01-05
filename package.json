@@ -1,14 +1,15 @@
 {
   "id": "skype-next",
   "name": "Skype",
-  "version": "1.0.0",
-  "description": "skype custom | 2019-06-11 supported multi-language schema",
+  "version": "1.1.0",
+  "description": "skype custom | 2021-01-05 supported multi-language schema",
   "main": "index.js",
   "author": "Taka",
   "license": "MIT",
   "repository": "https://github.com/taka-tactical/recipe-skype",
   "config": {
-    "serviceURL": "https://web.skype.com",
-    "hasNotificationSound": true
+    "serviceURL": "https://web.skype.com/",
+    "hasNotificationSound": true,
+    "disablewebsecurity": true
   }
 }
